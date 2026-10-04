@@ -15,9 +15,8 @@ Group 8
 | Jose Carlos Mutongolume | 226054179 | Employee Management |
 | Matias Joseph | 226065669 | Budget Management |
 | Esther Haihambo | 226041352| Budget Management |
-| TBC | TBC | Supplier Management |
+| Mukanwa Matta| 223023205| Supplier Management |
 | Mukanwa Mataa | 223023205 | Asset Management |
-| TBC | TBC | Reports |
 | Christiaan Shidiwe | 223074098 | Testing, Documentation & Git Coordination |
 | Esala Amunyela | TBC | Functions, Integration & Validation |
 
